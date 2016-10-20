@@ -1,0 +1,28 @@
+.gameContainer{
+	position: relative;
+	top: 20vh;
+	margin: auto;
+	height: 300px;
+	width: 300px;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.square{
+	height: 98px;
+	width: 98px;
+	border: 1px solid black;
+}
+
+h1 {
+	position: relative;
+	top: 40vh;
+	text-align: center;
+}
+
+button{
+	position: relative;
+	top: 40vh;
+	display: block;
+	margin: auto;
+}
